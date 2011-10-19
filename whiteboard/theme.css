@@ -168,7 +168,7 @@ body {
 			margin-bottom: 20px;
 			border-bottom: 1px #dedede solid;
 		}
-	#sidebar {
+	#sidebar {display: none;
 		border-top: 1px #ccc solid;
 	}
 		#sidebar .widget-area {
